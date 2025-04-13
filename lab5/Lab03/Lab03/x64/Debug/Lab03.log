@@ -1,0 +1,56 @@
+﻿  LibBlade.cpp
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(120,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(120,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(120,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(120,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(125,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(125,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(125,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(125,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(263,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(263,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(287,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(287,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(288,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(288,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(301,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(301,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(302,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+D:\univer\!ОКГ\lab5\Lab03\Lab03\LibBlade.cpp(302,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/LibBlade.cpp")
+  
+  Lab03.vcxproj -> D:\univer\!ОКГ\lab5\Lab03\x64\Debug\Lab05.exe
